@@ -1,0 +1,4 @@
+/connect localhost 8085 bonjour
+/invite clairereyt5 #chan
+/join chan
+
